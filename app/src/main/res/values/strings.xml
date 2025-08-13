@@ -12,4 +12,24 @@
     <string name="description5">Effortlessly glides in to save the day</string>
     <string name="hero6">Dynamic Yasmine</string>
     <string name="description6">Ability to shift to any form and energize</string>
+    <string name="hero7">Captain Code</string>
+    <string name="description7">Writes flawless algorithms to solve any problem</string>
+    <string name="hero8">The UI Unicorn</string>
+    <string name="description8">Creates interfaces so beautiful they bring tears to your eyes</string>
+    <string name="hero9">Doctor Debug</string>
+    <string name="description9">Can find and fix any bug, no matter how obscure</string>
+    <string name="hero10">The Agile Avenger</string>
+    <string name="description10">Iterates rapidly, delivering features at lightning speed</string>
+    <string name="hero11">Gradle Guardian</string>
+    <string name="description11">Ensures builds are fast, reliable, and always successful</string>
+    <string name="hero12">Professor Pixel</string>
+    <string name="description12">Master of design, ensuring every pixel is perfectly placed</string>
+    <string name="hero13">The Kotlin Knight</string>
+    <string name="description13">Wields the power of concise and expressive code</string>
+    <string name="hero14">Compose Crusader</string>
+    <string name="description14">Builds stunning UIs declaratively with modern toolkits</string>
+    <string name="hero15">The Android Architect</string>
+    <string name="description15">Designs robust and scalable application structures</string>
+    <string name="hero16">Version Control Valkyrie</string>
+    <string name="description16">Manages code history with grace and precision</string>
 </resources>
